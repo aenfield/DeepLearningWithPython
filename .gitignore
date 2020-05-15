@@ -131,3 +131,4 @@ dmypy.json
 # custom for this dir/work
 dogsandcats_small/
 dogsandcats_source/
+*.h5
